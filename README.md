@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Chuntawat Thongmee</h1>
-<h3 align="center">A first-class honors student from Thailand</h3>
-
-###
-
-
+# Welcome to my Bat-Cave! 🦇
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6431503009&label=Profile%20views&color=0e75b6&style=flat" alt="6431503009" /> </p>
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=6431503009" alt="6431503009" /></a> </p>
+  <img src="https://media.giphy.com/media/SgBFcIje2WNkk/giphy.gif" alt="Batman Animation" width="100%">
+</div>
+
+## About Me
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img src="https://media.giphy.com/media/m3SYKzhmod1IY/giphy.gif" alt="Batman in the Rain" width="300">|Hello,I am Chuntawat Thongmee, a first-class honors student from Thailand, currently enrolled at the prestigious Mae Fah Luang University where I am diligently pursuing my academic studies and working to excel in my coursework. <br><br> [I am deeply passionate about software engineering and enjoy solving complex problems to create innovative solutions. As an active member of the AI community, my goal is to leverage my technical expertise and education to make a positive impact.]|
 
 
-
-###
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3YsEPo1u3C8dW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/batman-funny-gif-3YsEPo1u3C8dW">via GIPHY</a></p>
-###
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,7 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+
+## Connect with Me
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -45,8 +45,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
